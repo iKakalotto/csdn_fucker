@@ -1,0 +1,9 @@
+/* Allow mouse to select code */
+pre, pre > code {
+    user-select: unset!important;
+}
+
+/* Hide the "登录复制" button */
+main div.blog-content-box pre .hljs-button.active {
+    display: none!important;
+}
