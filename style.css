@@ -7,3 +7,15 @@ pre, pre > code {
 main div.blog-content-box pre .hljs-button.active {
     display: none!important;
 }
+
+main div.blog-content-box pre.set-code-hide {
+    height: unset!important;
+}
+
+main div.blog-content-box pre {
+    max-height: unset!important;
+}
+
+.hide-preCode-box {
+    display: none;
+}

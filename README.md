@@ -22,6 +22,10 @@ This Chrome extension is provided for educational and learning purposes only. It
 
 ### Version History
 
+**0.2.3**
+
+- Automatically expand collapsed code blocks.
+
 **0.2.2**
 
 - Support copying selected content using the mouse right-click menu.
