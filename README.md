@@ -26,6 +26,10 @@ This Chrome extension is provided for educational and learning purposes only. It
 
 ## Version History
 
+**0.3.1**
+
+- Solve the problem of some pages having unreadable text in the dark mode of the browser.
+
 **0.3.0**
 
 - Remove the restriction of "关注博主即可阅读全文".

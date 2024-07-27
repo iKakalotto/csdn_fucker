@@ -30,3 +30,13 @@ main div.blog-content-box pre {
 div.hide-article-box {
     display: none;
 }
+
+/* Remove the background image */
+.ai-abstract {
+    background-image: unset!important;
+    border: 1px wheat solid;
+}
+
+aside div.aside-box h3.aside-title {
+    background: unset!important;
+}
