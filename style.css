@@ -1,5 +1,5 @@
-/* Allow mouse to select code */
-pre, pre > code {
+/* Allow mouse to select content */
+pre, pre > code, #content_views {
     user-select: unset!important;
 }
 

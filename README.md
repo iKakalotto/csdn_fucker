@@ -26,6 +26,10 @@ This Chrome extension is provided for educational and learning purposes only. It
 
 ## Version History
 
+**0.3.2**
+
+- Solve the problem of non-code text content on some pages that cannot be selected.
+
 **0.3.1**
 
 - Solve the problem of some pages having unreadable text in the dark mode of the browser.
