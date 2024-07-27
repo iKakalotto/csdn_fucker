@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "CSDN Fucker",
     "description": "Allow copying CSDN text and code without logging in.",
-    "version": "0.2.4",
+    "version": "0.3.0",
     "content_scripts": [
         {
             "matches": [

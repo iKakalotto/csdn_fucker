@@ -26,6 +26,10 @@ This Chrome extension is provided for educational and learning purposes only. It
 
 ## Version History
 
+**0.3.0**
+
+- Remove the restriction of "关注博主即可阅读全文".
+
 **0.2.4**
 
 - Change the websites that are allowed to be accessed by the plugin.

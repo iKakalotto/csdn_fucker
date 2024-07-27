@@ -8,6 +8,7 @@ main div.blog-content-box pre .hljs-button.active {
     display: none!important;
 }
 
+/* Code auto-expansion */
 main div.blog-content-box pre.set-code-hide {
     height: unset!important;
 }
@@ -17,5 +18,15 @@ main div.blog-content-box pre {
 }
 
 .hide-preCode-box {
+    display: none;
+}
+
+/* Remove the restriction of "关注博主即可阅读全文" */
+#article_content {
+    height: unset!important;
+    overflow: unset!important;
+}
+
+div.hide-article-box {
     display: none;
 }
