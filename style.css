@@ -40,3 +40,19 @@ div.hide-article-box {
 aside div.aside-box h3.aside-title {
     background: unset!important;
 }
+
+.passport-login-container,
+.rightside-fixed-hide,
+.passport-login-tip-container,
+.tool-active-list,
+#recommendAdBox {
+    display: none!important;
+}
+
+div:has(.csdn-side-toolbar) {
+    display: none!important;
+}
+
+body {
+    background: unset!important;
+}
